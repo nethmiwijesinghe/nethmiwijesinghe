@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nethmi Wijesinghe</h1>
-
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | UI/UX Learner</h3>
-
 ---
 
 💫 *Turning ideas into real-world web applications*
