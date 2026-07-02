@@ -56,4 +56,4 @@
 ---
 
 🌸 *“Keep learning. Keep building. Keep growing.”*
-<img src="/GithubProfile.png"></img>
+
