@@ -27,14 +27,6 @@
 
 ---
 
-### 💡 Featured Projects
-
-- 💇‍♀️ Salon Appointment Booking System (MERN Stack)  
-- 📊 Reports Management System (PDF / Excel Export)  
-- 🔐 JWT Authentication System  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
